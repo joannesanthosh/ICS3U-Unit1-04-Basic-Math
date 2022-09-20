@@ -6,7 +6,7 @@
 
 
 def main():
-    #This function calculates the area and perimeter
+    # This function calculates the area and perimeter
 
     print("A rectangle has these dimensions: ")
     print("5cm x 3cm")
