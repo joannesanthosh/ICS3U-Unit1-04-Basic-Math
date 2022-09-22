@@ -14,6 +14,8 @@ def main():
     print("The area is {}cm².".format(3 * 5))
     print("The perimeter is {}cm.".format(2 * (3 + 5)))
 
+    print("\nDone.")
+
 
 if __name__ == "__main__":
     main()
